@@ -1,0 +1,126 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <RayMariposa>Spiny butterfly ray</RayMariposa>
+      <RayMariposa_stt>Spiny butterfly ray</RayMariposa_stt>
+      <RayMariposa_lower>the Spiny butterfly ray</RayMariposa_lower>
+      <RayMariposa_ltt>
+         <color r="255" g="248" b="178">
+            <b>Spiny butterfly ray</b>
+         </color>
+         <br/>
+         Click to select and then place the Spiny butterfly ray.
+      </RayMariposa_ltt>
+      <!--gift names-->
+      <RayMariposa_Gift>Spiny butterfly ray Shirt</RayMariposa_Gift>
+      <RayMariposa_Gift_stt>Spiny butterfly ray shirt</RayMariposa_Gift_stt>
+      <RayMariposa_Gift_lower>the Spiny butterfly ray shirt</RayMariposa_Gift_lower>
+      <RayMariposa_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Spiny butterfly ray Shirt</b>
+         </color>
+         <br/>Guests who enjoy watching the Spiny butterfly ray will buy this gift.
+      </RayMariposa_Gift_ltt>
+</entityname>
+<zoopedia_raymariposa>
+ <entry>Spiny butterfly ray</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/RayMariposa/RayMariposa_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                      Low Risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Coasts worldwide<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Cartilaginous Fishes <i>(Chondrichthyes)</i><br/>Order: Butterfly rays Rays <i>( Myliobatiformes )</i><br/>Family:<i>(Gymnuridae)</i><br/>Genus: <i>Gymnura</i><br/>Species: <i>G. Altavela</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Spiny butterfly ray Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is one of the largest species of genus Gymnura. It may be 4 m wide.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is one of the 14 species of the genus Gymnura.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Spiny butterfly ray in challenge or campaign games, you must earn a 1-star zoo fame rating for your zoo.
+   </color>
+   <p/> The spiny butterfly ray or giant butterfly ray (Gymnura altavela) is a species of butterfly ray, family Gymnuridae, native to the shallow coastal waters of the Atlantic Ocean. A large ray that can measure over 2 m (6 ft 7 in) across, it may be distinguished from the sympatric smooth butterfly ray (G. micrura) by the spine at the base of its tail and by a small tentacular structure on the margin of each spiracle. Slow-reproducing and valued for its meat, in recent decades its population has experienced a decline of over 30 percent, and it has become Critically Endangered in certain parts of its range. This species has a patchy and discontinuous distribution in Atlantic tropical and warm-temperate waters. In the western Atlantic it is found from Massachusetts, USA to Buenos Aires Province, Argentina; it is rare in the Gulf of Mexico and common in the mouths of tidal creeks along the Virginia coast. In the eastern Atlantic, it is found from Portugal to Ambriz, Angola, including the Mediterranean Sea, the Black Sea, and the Madeira and Canary Islands.  It is found in shallow brackish and coastal waters over soft sandy or muddy subsubstrates, at a depth of 5–100 m (16–330 ft). This ray is uncommon overall but can be locally abundant in suitable habitat. Individuals may segregate by sex, with females usually staying in deeper water but moving inshore to breed. The spiny butterfly ray has a very broad, lozenge-shaped pectoral fin disk much wider than it is long, with concave front margins and abruptly rounded corners. The snout is short and blunt. The teeth have high, conical cusps, numbering 98–138 rows in the upper jaw and 78–110 rows in the lower jaw. In both jaws there are 10–12 functional tooth rows with each dental band occupying 70% the width of the jaw. There is a tentacle-like structure on the inner posterior margin of each spiracle. The tail is short and slender, measuring a quarter the disk width, with upper and lower fin folds. There are one or more serrated spines at the base of the tail. The skin is naked in juveniles and subadults, while adults develop a patch of denticles on the center of the disk. The coloration is dark brown above, sometimes with small lighter or darker spots and blotches in a marbled pattern, and white below. Juveniles have pale crossbars on the tail. The maximum reported size is 2.2 m (7 ft 3 in) disk width in the northwest Atlantic, though there are unsubstantiated reports of rays over 4 m (13 ft) off West Africa. The maximum published weight is 60 kg (130 lb).
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content provided courtesy of <color r="255" g="231" b="135">Wikipedia</color>
+<p/>Designed and made by 
+<a href="zoopedia:zoopedia_raybutterfly:entry">
+                 <u>
+                    <color r="255" g="231" b="135">Imago</color>
+                 </u>
+              </a>
+  </cell>
+ </text>
+</zoopedia_raymariposa>
+</ZT2Strings>

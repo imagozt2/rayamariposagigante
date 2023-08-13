@@ -1,0 +1,39 @@
+<BFTypedBinder binderType="RayMariposa_Adult_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Rajiformes>
+                     <Myliobatidae>
+                        <RayMariposa>
+                           <RayMariposa_Adult>
+                              <RayMariposa_Adult_F/>
+                           </RayMariposa_Adult>
+                        </RayMariposa>
+                     </Myliobatidae>
+                  </Rajiformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_Male="0" f_adoptCount="rand(1,1)"/>
+      <UIToggleButton template="adopt">
+			<UIAspect>
+				<default image="entities\units\animals\RayMariposa\RayMariposa_Adult_F_icon.dds" />
+			</UIAspect>
+      </UIToggleButton>
+   </shared>
+   <binder>
+      <BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance b_Pregnant="false"/>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>
